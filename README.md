@@ -4,7 +4,7 @@ https://github.com/Sai-Harshith-R/MARS_club_task-3/blob/b2ef0e94459327e994d1a019
 
 https://github.com/Sai-Harshith-R/MARS_club_task-3/blob/c08c3c5a3e4461a5b8e7c8d76831c14609311885/mars_club_task3__2nd_.ino
 
-
+https://github.com/Sai-Harshith-R/MARS_club_task-3/blob/ff13a6768ffc2aa82a2e1e084d1fa1e8240525d1/screenshot%20mars%20club%20task%203%20(2nd).png
 
 This task uses an MPU-6050 sensor consisting of accelerometer and gyro sensor.
 We have to print the values of acceleration and rotation w.r.t X,Y&Z axes measured by MPU6050
