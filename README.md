@@ -38,3 +38,7 @@ https://www.electronicwings.com/arduino/mpu6050-interfacing-with-arduino-uno
 https://circuitdigest.com/microcontroller-projects/arduino-interrupt-tutorial-with-examples
 
 https://docs.arduino.cc/built-in-examples/digital/Button
+
+NEW TOPICS THAT I HAVE LEARNT :
+
+I have learnt about MPU-6050 sensor,different methods of taking input from push button [PULLUP & PULLDOWN connection]. 
