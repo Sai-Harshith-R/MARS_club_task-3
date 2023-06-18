@@ -21,4 +21,5 @@ PROCEDURE:
 Take all the apparatus [ARDUINO UNO, jump wires, breadboard, MPU-6050 sensor].
 Make sure that VCC and GND of the sensor is connected to 5v and ground of ARDUINO respectively .
 Connect the serial clock pin and serial data pin of the sensor to the ARDUINO.
-include "Wire.h" header file for writing the program
+Include "Wire.h" header file for writing the program
+Use interrupt statement/function to start and stop the display when push button is pressed
