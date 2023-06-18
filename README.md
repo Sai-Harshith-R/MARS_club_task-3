@@ -24,3 +24,17 @@ Connect the serial clock pin and serial data pin of the sensor to the ARDUINO.
 Include "Wire.h" header file for writing the program.
 Use interrupt statement/function to start and stop the display when push button is pressed.
 The push button is connected in PULLUP connection and input is given to pin 2 in ARDUINO.
+
+RESOURCES :
+
+The following websites from google were taken to understand about MPU-6050.
+
+https://lastminuteengineers.com/mpu6050-accel-gyro-arduino-tutorial/
+
+https://howtomechatronics.com/tutorials/arduino/arduino-and-mpu6050-accelerometer-and-gyroscope-tutorial/
+
+https://www.electronicwings.com/arduino/mpu6050-interfacing-with-arduino-uno
+
+https://circuitdigest.com/microcontroller-projects/arduino-interrupt-tutorial-with-examples
+
+https://docs.arduino.cc/built-in-examples/digital/Button
