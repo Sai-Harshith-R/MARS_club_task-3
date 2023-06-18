@@ -17,5 +17,6 @@ We have to print the values of acceleration and rotation w.r.t X,Y & Z axes meas
 As we press the push button, the measurements from sensor should be printed and it should stop printing if we press the push button again.
 
 PROCEDURE:
-Take all the apparatus [ARDUINO UNO, jump wires, breadboard, MPU-6050 sensor]
-Make sure that VCC and GND of the sensor is connected to 5v and ground of ARDUINO respectively 
+Take all the apparatus [ARDUINO UNO, jump wires, breadboard, MPU-6050 sensor].
+Make sure that VCC and GND of the sensor is connected to 5v and ground of ARDUINO respectively .
+Connect the serial clock pin and serial data pin of the sensor to the ARDUINO.
