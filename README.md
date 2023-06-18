@@ -41,4 +41,4 @@ https://docs.arduino.cc/built-in-examples/digital/Button
 
 NEW TOPICS THAT I HAVE LEARNT :
 
-I have learnt about MPU-6050 sensor,different methods of taking input from push button [PULLUP & PULLDOWN connection]. 
+I have learnt about MPU-6050 sensor,different methods of taking input from push button [PULLUP & PULLDOWN connection] and using interrupt statement/function.
